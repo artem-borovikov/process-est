@@ -1,0 +1,285 @@
+ [
+	{
+		"group_template_id" : "008c4169-25bf-4a90-bf3c-2dd40d6d50f3",
+		"title" : "ПЭО",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1ed431d2-ec5b-498e-907e-2e35ed9ba6e9"
+	},
+	{
+		"group_template_id" : "01824932-8fab-4e80-aeb3-f2ddadeb7584",
+		"title" : "Зембанк. Филиал",
+		"managed_object_type" : "PARCEL",
+		"parent_id" : "f696ef46-f733-4311-b039-060f29660a0d"
+	},
+	{
+		"group_template_id" : "0307970d-c8e6-4ad5-a70f-47261953c696",
+		"title" : "Техзак. ПТО. Подготовка КЛК",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a"
+	},
+	{
+		"group_template_id" : "05489d7e-da28-471f-8a65-1b6a6750e1a9",
+		"title" : "Техзак",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "0a9e10fb-abb2-4d84-9d2c-ca7e56ef490e",
+		"title" : "Техзак. ИРД",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "1bd4af10-1443-4ad8-a089-643f568a36aa",
+		"title" : "Управление финансами",
+		"managed_object_type" : "SITE",
+		"parent_id" : "788ab68d-1621-45c3-9a4f-99417b22458d"
+	},
+	{
+		"group_template_id" : "22779600-fd5c-4bd8-8a2c-7dbc6e80a289",
+		"title" : "Зембанк. Филиал",
+		"managed_object_type" : "SITE",
+		"parent_id" : "7ff55da1-8cbf-4e63-9743-20fadf658691"
+	},
+	{
+		"group_template_id" : "254be7c7-d209-421d-9ec2-c067038bdeba",
+		"title" : "Проектирование",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "eda7eea7-0c6a-4950-ba8d-803bedeea047"
+	},
+	{
+		"group_template_id" : "25769a97-7d94-4b14-8637-ac92bdaedc60",
+		"title" : "Техзак. Тендеры",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a"
+	},
+	{
+		"group_template_id" : "28768405-dfbd-4461-b33b-dd9e136493bc",
+		"title" : "Проектирование",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a"
+	},
+	{
+		"group_template_id" : "2d478253-365f-4347-8a6f-9e5cab6cb664",
+		"title" : "Коммерческая деятельность",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "45ee589c-cf5a-4b9b-9363-564a8963315e",
+		"title" : "Ввод в эксплуатацию (УК)",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "270678de-9564-4cfd-835d-9eacb731daf9"
+	},
+	{
+		"group_template_id" : "47a195b5-9bb0-4e9e-86e8-2878d5380b4d",
+		"title" : "Стратегический маркетинг",
+		"managed_object_type" : "SITE",
+		"parent_id" : "7ff55da1-8cbf-4e63-9743-20fadf658691"
+	},
+	{
+		"group_template_id" : "52210743-0496-49e5-9b26-61f91dbf1162",
+		"title" : "ПЭО",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "eda7eea7-0c6a-4950-ba8d-803bedeea047"
+	},
+	{
+		"group_template_id" : "5738ac59-fd0d-4031-96a7-e64b0e2470f8",
+		"title" : "Проектирование",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1ed431d2-ec5b-498e-907e-2e35ed9ba6e9"
+	},
+	{
+		"group_template_id" : "585c1ee7-82ae-4621-8b05-d0a3901bbab8",
+		"title" : "Управление финансами",
+		"managed_object_type" : "SITE",
+		"parent_id" : "7ff55da1-8cbf-4e63-9743-20fadf658691"
+	},
+	{
+		"group_template_id" : "588b806e-681e-4c98-8f94-bad378012de0",
+		"title" : "Коммерческая деятельность и стратегический маркетинг",
+		"managed_object_type" : "SITE",
+		"parent_id" : "7fda82c9-89bd-41cc-af1d-ea6610160aa6"
+	},
+	{
+		"group_template_id" : "5d30ac90-2002-404b-a66a-a36cc3c04048",
+		"title" : "Зембанк. Филиал",
+		"managed_object_type" : "SITE",
+		"parent_id" : "ab13a0d3-0a44-4cf6-ba02-c1a5a80f44a3"
+	},
+	{
+		"group_template_id" : "6217369d-2f65-49b6-bddb-ee5344ef798b",
+		"title" : "Орг. строительства. ПТО. Подписание КЛК",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a"
+	},
+	{
+		"group_template_id" : "6615c1b9-ee62-428d-8098-e8aa5c834891",
+		"title" : "Проектирование",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "4fa5a8dd-3d4f-4827-ad3a-38c037fe93cb"
+	},
+	{
+		"group_template_id" : "6805f6cd-d791-4226-8e5b-b41820729f9c",
+		"title" : "Техзак",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "4fa5a8dd-3d4f-4827-ad3a-38c037fe93cb"
+	},
+	{
+		"group_template_id" : "68a92ac6-404d-437f-ad0b-528b46b8721e",
+		"title" : "Проектирование РД Этап 4",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "69f606e1-6c58-4534-aae6-31eb7e630e26",
+		"title" : "Проектирование",
+		"managed_object_type" : "SITE",
+		"parent_id" : "2f38844f-53c3-4c37-a77b-b0b8a12bfa4d"
+	},
+	{
+		"group_template_id" : "69fca184-c5f6-41ae-a260-ce626ddb6fbe",
+		"title" : "ПЭО",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "4fa5a8dd-3d4f-4827-ad3a-38c037fe93cb"
+	},
+	{
+		"group_template_id" : "6af4ccff-3327-4398-99b9-b4934e77eadc",
+		"title" : "Техзак. Сети",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "6c67f976-1070-4c69-8d9d-8c4159f0b016",
+		"title" : "Зембанк. Штаб",
+		"managed_object_type" : "SITE",
+		"parent_id" : "e2eb2e28-2260-43a0-8057-16baec381230"
+	},
+	{
+		"group_template_id" : "7c3d5825-167c-47a5-b16c-a7853f5c03ea",
+		"title" : "Зембанк. Штаб",
+		"managed_object_type" : "SITE",
+		"parent_id" : "7ff55da1-8cbf-4e63-9743-20fadf658691"
+	},
+	{
+		"group_template_id" : "7ce56c09-2bf9-4cc1-9856-c0594c0de1d1",
+		"title" : "Орг. строительства. СМР",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a"
+	},
+	{
+		"group_template_id" : "7f4641dc-821f-4f67-a24b-488303ae31e4",
+		"title" : "Техзак. Сети",
+		"managed_object_type" : "PARCEL",
+		"parent_id" : "f696ef46-f733-4311-b039-060f29660a0d"
+	},
+	{
+		"group_template_id" : "831bf39f-7879-4683-9db4-2d5d628e764b",
+		"title" : "Проектирование РД Этап 2",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "8c3f0a3c-11fe-49e0-9e5e-c91f53afbf1f",
+		"title" : "Страт. маркетинг",
+		"managed_object_type" : "SITE",
+		"parent_id" : "788ab68d-1621-45c3-9a4f-99417b22458d"
+	},
+	{
+		"group_template_id" : "8ff33fd1-9ca7-4047-8e7d-30dd79deb9a0",
+		"title" : "Орг. строительства. ПТО. Приёмка Исп.документации",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a"
+	},
+	{
+		"group_template_id" : "944697d2-b686-4170-a44e-cb329c027ffb",
+		"title" : "Зембанк. Штаб",
+		"managed_object_type" : "SITE",
+		"parent_id" : "2f38844f-53c3-4c37-a77b-b0b8a12bfa4d"
+	},
+	{
+		"group_template_id" : "9c78832d-255b-4fc6-9cdd-262166556a5f",
+		"title" : "Зембанк. Филиал",
+		"managed_object_type" : "SITE",
+		"parent_id" : "e2eb2e28-2260-43a0-8057-16baec381230"
+	},
+	{
+		"group_template_id" : "9efd7597-3118-407a-8371-911bc5866586",
+		"title" : "Коммерческая деятельность и стратегический маркетинг",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "4fa5a8dd-3d4f-4827-ad3a-38c037fe93cb"
+	},
+	{
+		"group_template_id" : "a3c0217f-e183-426c-8bc5-ee855a599998",
+		"title" : "Техзак. Сети",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "75f6cef2-8542-42bb-8cae-f868fc8dde6c"
+	},
+	{
+		"group_template_id" : "a955b818-cfa5-4fca-b5c4-7e6e8e1730d0",
+		"title" : "Техзак. ИРД",
+		"managed_object_type" : "SITE",
+		"parent_id" : "788ab68d-1621-45c3-9a4f-99417b22458d"
+	},
+	{
+		"group_template_id" : "ac7eae2a-afee-498f-978c-c9218f300a8d",
+		"title" : "Проектирование РД Этап 1",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "ac948343-3070-4f19-8c74-fc1fdf336966",
+		"title" : "Управление финансами",
+		"managed_object_type" : "SITE",
+		"parent_id" : "e2eb2e28-2260-43a0-8057-16baec381230"
+	},
+	{
+		"group_template_id" : "ad536770-b7b2-4838-8fdd-58789c2e0585",
+		"title" : "Техзак. ИРД",
+		"managed_object_type" : "PARCEL",
+		"parent_id" : "f696ef46-f733-4311-b039-060f29660a0d"
+	},
+	{
+		"group_template_id" : "bede6fa9-457f-4e86-857e-47ba23858d4e",
+		"title" : "Техзак. Сети",
+		"managed_object_type" : "SITE",
+		"parent_id" : "2f38844f-53c3-4c37-a77b-b0b8a12bfa4d"
+	},
+	{
+		"group_template_id" : "c35e6dd3-dfa3-443e-9805-c40490812e8d",
+		"title" : "Техзак. ИРД",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a"
+	},
+	{
+		"group_template_id" : "c5552df2-c4d9-4169-b3fe-b0437f5ecf20",
+		"title" : "Страт. маркетинг",
+		"managed_object_type" : "SITE",
+		"parent_id" : "2f38844f-53c3-4c37-a77b-b0b8a12bfa4d"
+	},
+	{
+		"group_template_id" : "d094f0c6-22f7-44b1-b46c-a671287108c4",
+		"title" : "Проектирование",
+		"managed_object_type" : "SITE",
+		"parent_id" : "788ab68d-1621-45c3-9a4f-99417b22458d"
+	},
+	{
+		"group_template_id" : "d55e6657-3264-4546-82ca-0f1d83231463",
+		"title" : "Проектирование РД Этап 3",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3"
+	},
+	{
+		"group_template_id" : "e8de94c4-3e09-4338-8a39-5674c1541acb",
+		"title" : "Техзак. ИРД",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "75f6cef2-8542-42bb-8cae-f868fc8dde6c"
+	},
+	{
+		"group_template_id" : "fdf0bbd3-0e9f-4873-a2ec-7b23a3e525c7",
+		"title" : "Техзак. ИРД",
+		"managed_object_type" : "CONSTRUCTION_OBJECT",
+		"parent_id" : "4fa5a8dd-3d4f-4827-ad3a-38c037fe93cb"
+	}
+]
+

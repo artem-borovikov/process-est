@@ -1,0 +1,73 @@
+[
+	{
+		"group_template_id" : "1daa3873-b10b-446a-96af-b3c697fc1db3",
+		"title" : "Подготовка к реализации",
+		"managed_object_type" : "CONSTRUCTION_OBJECT"
+	},
+	{
+		"group_template_id" : "1ed431d2-ec5b-498e-907e-2e35ed9ba6e9",
+		"title" : "Программирование объекта строительства",
+		"managed_object_type" : "CONSTRUCTION_OBJECT"
+	},
+	{
+		"group_template_id" : "270678de-9564-4cfd-835d-9eacb731daf9",
+		"title" : "Передача ключей",
+		"managed_object_type" : "CONSTRUCTION_OBJECT"
+	},
+	{
+		"group_template_id" : "2f38844f-53c3-4c37-a77b-b0b8a12bfa4d",
+		"title" : " Программирование площадки",
+		"managed_object_type" : "SITE"
+	},
+	{
+		"group_template_id" : "4fa5a8dd-3d4f-4827-ad3a-38c037fe93cb",
+		"title" : "Получение РС",
+		"managed_object_type" : "CONSTRUCTION_OBJECT"
+	},
+	{
+		"group_template_id" : "75f6cef2-8542-42bb-8cae-f868fc8dde6c",
+		"title" : "Закрытие объекта строительства",
+		"managed_object_type" : "CONSTRUCTION_OBJECT"
+	},
+	{
+		"group_template_id" : "788ab68d-1621-45c3-9a4f-99417b22458d",
+		"title" : "Проектирование площадки ",
+		"managed_object_type" : "SITE"
+	},
+	{
+		"group_template_id" : "7fda82c9-89bd-41cc-af1d-ea6610160aa6",
+		"title" : "Реализация площадки",
+		"managed_object_type" : "SITE"
+	},
+	{
+		"group_template_id" : "7ff55da1-8cbf-4e63-9743-20fadf658691",
+		"title" : "Поиск и анализ земли",
+		"managed_object_type" : "SITE"
+	},
+	{
+		"group_template_id" : "ab13a0d3-0a44-4cf6-ba02-c1a5a80f44a3",
+		"title" : "Разработка и утверждение градостроительной документации и подготовка целевого земельного участка",
+		"managed_object_type" : "SITE"
+	},
+	{
+		"group_template_id" : "b7fccc20-3ddf-446b-9b3b-a3981d692d9a",
+		"title" : "Реализация",
+		"managed_object_type" : "CONSTRUCTION_OBJECT"
+	},
+	{
+		"group_template_id" : "e2eb2e28-2260-43a0-8057-16baec381230",
+		"title" : "Подготовка к сделке",
+		"managed_object_type" : "SITE"
+	},
+	{
+		"group_template_id" : "eda7eea7-0c6a-4950-ba8d-803bedeea047",
+		"title" : "Проектирование концепции ",
+		"managed_object_type" : "CONSTRUCTION_OBJECT"
+	},
+	{
+		"group_template_id" : "f696ef46-f733-4311-b039-060f29660a0d",
+		"title" : "Подготовка целевого участка",
+		"managed_object_type" : "PARCEL"
+	}
+]
+
